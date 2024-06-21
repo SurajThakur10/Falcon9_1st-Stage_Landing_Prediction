@@ -2,7 +2,7 @@
 # Falcon 9 1st-Stage Landing Prediction Project
 
 
-![App Screenshot]([https://media.wired.com/photos/5a7cb68fa2d3835392e1b469/4:3/w_2133,h_1600,c_limit/spacexrocketreturn.jpg](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1td3N6YXl6dmQzNjk5eTN5eHE0NTlwenlidGJhc3VxaXFtaDR0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4gSs3V0Q7qOtKU/giphy.webp))
+![App Screenshot](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1td3N6YXl6dmQzNjk5eTN5eHE0NTlwenlidGJhc3VxaXFtaDR0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs4gSs3V0Q7qOtKU/giphy.webp)
 
 ## Overview
 
