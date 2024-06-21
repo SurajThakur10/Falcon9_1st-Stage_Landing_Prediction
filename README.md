@@ -4,7 +4,6 @@
 
 ![App Screenshot](https://laughingsquid.com/wp-content/uploads/2019/04/2-of-3-SpaceX-Boosters-Landing.gif?w=480)
 
-## Overview
 
 Welcome to the Falcon 9 1st-Stage Landing Prediction Project! This project aims to predict the success or failure of Falcon 9 first stage landings using Machine Learning techniques. By leveraging data collected from the SpaceX public API and Wikipedia, I've developed predictive models to anticipate landing outcomes accurately.
 
